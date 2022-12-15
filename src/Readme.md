@@ -10,29 +10,19 @@ The main function of the bios system is to pull the seed code from the ROM, read
 
 The ROM contains a tiny neural net and its associated weights. This neural net has been trained to call the neural net stored in the battery memory, which contains the system settings. If the neural net in the battery memory is not found, the ROM neural net will write the system setting neural net framework to the battery memory.
 
-#include <stdio.h>
-#include <stdlib.h>
+To compile the bios.c code on Linux Ubuntu, you can use the following command in the terminal:
 
-// Initialize hardware components
-void init_hardware()
-{
-    // Code to initialize hardware goes here
-}
+$ gcc -o bios bios.c
 
-// Load and initialize bios brain
-void init_bios_brain()
-{
-    // Code to load and initialize bios brain goes here
-}
+This command will compile the bios.c code using the GCC compiler, and produce an executable file called "bios". To run the executable, you can use the following command:
 
-int main(int argc, char *argv[])
-{
-    // Initialize hardware
-    init_hardware();
+$ ./bios
 
-    // Initialize bios brain
+
     init_bios_brain();
 
     // Start operating system
     return 0;
 }
+
+
