@@ -4,7 +4,7 @@ After careful consideration, the name M-Lop was chosen for the operating system 
 
 The name incorporates the initials of "machine learning operating system" into the name, making it clear what the operating system does and how it is different from other systems. Additionally, the name is short and easy to pronounce (phonetically, it is pronounced "em-lop"), making it easy to remember and communicate.
 
-pronounced : /em-lop/
+**pronounced : /em-lop/**
 
 Other names, such as AIOP and ML-Sys, were not chosen because they did not convey the operating system's key features and capabilities as clearly as M-Lop. For example, AIOP does not explicitly mention machine learning or operating systems, making it less intuitive for users who are not familiar with these technologies. Similarly, ML-Sys is similar to ML-OP, which could cause confusion and make it difficult to differentiate the operating system from other systems with similar names.
 
