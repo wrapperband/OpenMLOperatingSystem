@@ -1,6 +1,8 @@
 # M-Lop
 
-After careful consideration, the name M-Lop was chosen for the operating system due to its unique and memorable nature. The name incorporates the initials of "machine learning operating system" into the name, making it clear what the operating system does and how it is different from other systems. Additionally, the name is short and easy to pronounce (phonetically, it is pronounced "em-lop"), making it easy to remember and communicate.
+After careful consideration, the name M-Lop was chosen for the operating system due to its unique and memorable nature. 
+
+The name incorporates the initials of "machine learning operating system" into the name, making it clear what the operating system does and how it is different from other systems. Additionally, the name is short and easy to pronounce (phonetically, it is pronounced "em-lop"), making it easy to remember and communicate.
 
 pronounced : /em-lop/
 
