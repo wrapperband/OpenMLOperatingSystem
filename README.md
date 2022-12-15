@@ -30,3 +30,34 @@ An M-Lop system consists of several key components, including:
 ### Conclusion
 
 M-Lop systems are a new and exciting development in the world of computer operating systems. By leveraging the power of machine learning, these systems are able to provide a rich and intuitive user experience, as well as enable new applications and services that were not possible with traditional operating systems. We believe that M-Lop systems represent the future of computing and we are excited to see what the future
+
+
+# M-Lop Linux
+
+M-Lop Linux is a new operating system that replaces the Linux kernel with a machine learning-powered A.I. kernel. This allows M-Lop Linux to provide advanced functionality and an intuitive user experience.
+
+## Features
+
+- **Machine learning-powered A.I. kernel**: M-Lop Linux uses a machine learning-powered A.I. kernel to optimize and improve many key components of the operating system, including memory management, file system management, scheduling, and security.
+
+- **Automatic driver creation**: M-Lop Linux uses machine learning algorithms to automatically generate the necessary drivers for new hardware devices, without the need for manual coding. This allows the operating system to support a wide range of hardware, and makes it easier for users to add new devices to their system.
+
+- **Flexible and adaptable**: M-Lop Linux is designed to be able to learn and adapt to the user's preferences and habits. This allows the operating system to provide a personalized and intuitive experience, without the need for manual configuration.
+
+- **Open source**: M-Lop Linux is released under an open source license, which means that anyone is free to use, modify, and distribute the operating system. This allows for a community of developers and users to collaborate on the development of the operating system, and ensures that it remains transparent and accountable.
+
+## Getting started
+
+To get started with M-Lop Linux, follow these steps:
+
+1. Download the latest version of M-Lop Linux from the [releases page](https://github.com/wrapperband/OpenMLOperatingSystem/releases).
+
+2. Follow the instructions on the [installation page](https://github.com/wrapperband/OpenMLOperatingSystem/wiki/Installation) to install M-Lop Linux on your device.
+
+3. Explore the [wiki](https://github.com/wrapperband/OpenMLOperatingSystem/wiki) to learn more about the features and capabilities of M-Lop Linux.
+
+4. Join the [community](https://github.com/wrapperband/OpenMLOperatingSystem/community) to get help, share your experiences, and collaborate on the development of M-Lop Linux.
+
+## Contributing
+
+M-Lop Linux is an open source project, which means that anyone is welcome to contribute to its development. If you are interested in contributing to M-Lop Linux, please see the [contributing guidelines](https://github.com/wrapperband/OpenMLOperatingSystem/blob/main/CONTRIBUTING.md) for more information.
