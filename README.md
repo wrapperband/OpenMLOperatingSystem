@@ -1,5 +1,5 @@
 # OpenMLOperatingSystem
-ML-OP is a proposal for Low-level machine learning controlled computer operating system
+M-LOP is a proposal for Low-level machine learning controlled computer operating system
 
 ## White paper
 
@@ -45,6 +45,8 @@ M-Lop Linux is a new operating system that replaces the Linux kernel with a mach
 - **Flexible and adaptable**: M-Lop Linux is designed to be able to learn and adapt to the user's preferences and habits. This allows the operating system to provide a personalized and intuitive experience, without the need for manual configuration.
 
 - **Open source**: M-Lop Linux is released under an open source license, which means that anyone is free to use, modify, and distribute the operating system. This allows for a community of developers and users to collaborate on the development of the operating system, and ensures that it remains transparent and accountable.
+
+
 
 ## Getting started
 
