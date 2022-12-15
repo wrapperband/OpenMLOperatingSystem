@@ -21,7 +21,11 @@ An M-Lop system consists of several key components, including:
 
 - **Training updates**: M-Lop systems are designed to be able to continuously learn and improve over time. This means that they can be updated with new training data and algorithms, either automatically or with the assistance of human experts, to ensure that they remain effective and efficient.
 
-- **Brain controller**: The core of an M-Lop system is the "brain controller," which is a machine learning algorithm that is responsible for controlling the system and making decisions on behalf of the user. This algorithm is trained using a wide range of data, including user behavior, hardware data, and external information, to enable it to make intelligent and informed decisions.
+- **Brain controller**: The brain controller is a key component of an M-Lop system. It is a machine learning algorithm that is responsible for controlling the system and making decisions on behalf of the user. This algorithm is trained using a wide range of data, including user behavior, hardware data, and external information, to enable it to make intelligent and informed decisions.
+
+The brain controller acts as a framework for the M-Lop system, allowing it to select and run appropriate brain models to perform various tasks. It can instruct and receive feedback from these models, prioritize CPU usage, and instruct a settings brain to receive or implement new settings or store them for future use.
+
+Overall, the brain controller plays a central role in the functioning of an M-Lop system, enabling it to adapt and respond to changing conditions and user input.
 
 - **Bios brain**: The bios brain is a special component of an M-Lop system that is responsible for booting up the system and initializing the hardware. This component is typically implemented using machine learning algorithms that are trained to identify the hardware components of the system and configure them appropriately.
 
